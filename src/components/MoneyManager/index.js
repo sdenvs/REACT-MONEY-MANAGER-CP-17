@@ -19,11 +19,7 @@ const transactionTypeOptions = [
 // Write your code here
 class MoneyManager extends Component {
   state = {
-    historyList: [
-      {id: uuidv4(), title: 'Salary', amount: 12000, type: 'INCOME'},
-      {id: uuidv4(), title: 'rent', amount: 1000, type: 'INCOME'},
-      {id: uuidv4(), title: 'market', amount: 12000, type: 'EXPENSES'},
-    ],
+    historyList: [],
     title: '',
     amount: '',
     type: 'INCOME',
