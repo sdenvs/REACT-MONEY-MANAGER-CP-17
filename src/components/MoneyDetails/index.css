@@ -1,1 +1,11 @@
 /* Write your CSS here */
+.imgIcon {
+  width: 70px;
+  margin-right: 25px;
+}
+.text {
+  font-size: 15px;
+}
+.amount {
+  font-size: 25px;
+}

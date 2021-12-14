@@ -1,1 +1,8 @@
 /* Write your CSS here */
+.deleteIcon {
+  width: 25px;
+}
+.deletebtn {
+  background-color: transparent;
+  border-style: none;
+}
